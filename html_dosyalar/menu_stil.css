@@ -1,0 +1,65 @@
+.bodysol{
+    background-color: rgb(192, 239, 171);
+}
+.bodysag{
+    background-color:antiquewhite;
+}
+.stilm1{
+    font-size: large;
+    font-style: italic;
+    padding-left: 15px;      
+}
+.stilm2{
+    padding-left: 15px;
+}
+.stilm3{
+    padding:15px;
+}
+.stilm4{
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    padding: 10%;
+}
+.stilm5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.stilm6{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    text-align: center;
+    padding: 5%;
+}
+.stilm7{
+    font-size: large;
+    background-color: rgb(94, 225, 212) ;
+}
+.stilm8{
+    background-color: rgb(234, 240, 239) ;
+}
+.stilm9{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:left ;
+    margin-left:20%;
+}
+.stilm10{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    text-align: left;
+    padding: 5%;
+    margin-left: 20%;
+}
+.stilmlu{
+    font-size: larger;
+}
+th,td{
+    border: 2px solid black; 
+    padding: 5%;
+    font-style:inherit;
+    text-align: center;    
+}
+table{
+    padding-left: 30%;    
+}
